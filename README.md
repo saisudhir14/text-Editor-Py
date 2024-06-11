@@ -1,1 +1,1 @@
-Developing a Text Editor using Python.
+Developing a Resume Builder
